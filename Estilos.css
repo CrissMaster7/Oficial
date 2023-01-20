@@ -26,7 +26,7 @@ body{
     clear: both;
 }
 
-.barra{
+.barra{ /*Barra de navegación*/
     display: flex;
     list-style: none;
     background-color: rgb(73, 245, 236);
